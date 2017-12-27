@@ -1,2 +1,2 @@
 # Face-Recognition-System
-A ace recognition that performs the recognition by comparing unknown faces with training set of known faces.
+A Face Recognition that performs the recognition by comparing unknown faces with training set of known faces.
